@@ -1,0 +1,54 @@
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: #1abc9c !important;
+}
+
+div.busqueda {
+	width: 100%;
+	text-align: right;
+	margin-top: 10px;
+}
+
+
+body {
+	background-color: #CDCDCD;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+#contenido {
+    background-color: #CDCDCD;
+	float: left;
+	text-align: center;
+	width: 100%;
+	min-height: 700px;
+	flex-grow: 1;
+	background-color: white;
+	height: auto;
+	
+}
+#listado{
+	/*background: url("../imagenes/fondo.jpg") no-repeat center center fixed;*/
+	background-size: cover;
+	display: flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+}
+div#listado .cd{
+	
+	margin: 20px;
+	word-wrap: break-word;
+   	width: 215px;
+   	text-align: center;
+	
+}
+

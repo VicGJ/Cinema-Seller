@@ -1,0 +1,54 @@
+<?php
+$xmlstr = <<<XML
+<?xml version="1.0" encoding="utf-8" standalone='yes'?>
+		<actores_actrices>
+        <actores>
+            <nombre>Leonardo DiCaprio</nombre>
+            <edad>43</edad>
+        </actores>
+        <actores>
+          <nombre>Kate Winslet</nombre>
+          <edad>42</edad>
+        </actores>
+        <actores>
+            <nombre>Zoe Saldaña</nombre>
+            <edad>39</edad>
+        </actores>
+        <actores>
+
+            <nombre>Sam Worthington</nombre>
+            <edad>41</edad>
+        </actores>
+        <actores>
+       
+            <nombre>John Travolta</nombre>
+            <edad>64</edad>
+        </actores>
+        <actores>
+            
+            <nombre>Samuel L. Jackson</nombre>
+            <edad>69</edad>
+        </actores>
+        <actores>
+      
+            <nombre>Uma Thurman</nombre>
+            <edad>48</edad>
+        </actores>
+        <actores>
+          
+            <nombre>Lucy Liu</nombre>
+            <edad>49</edad>
+        </actores>
+        <actores>
+           
+            <nombre>Tommy Wiseau</nombre>
+            <edad>62</edad>
+        </actores>
+        <actores>
+        
+            <nombre>Greg Sestero</nombre>
+            <edad>39</edad>
+        </actores>
+    </actores_actrices>
+XML;
+?>
